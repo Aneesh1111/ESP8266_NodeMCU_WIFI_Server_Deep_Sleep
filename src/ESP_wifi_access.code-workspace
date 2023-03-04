@@ -1,0 +1,55 @@
+{
+	"folders": [
+		{
+			"path": "../../ESP_wifi_access"
+		},
+		{
+			"name": "ADC0_interrupt",
+			"path": "../../ADC0_interrupt"
+		},
+		{
+			"name": "ESP_wifi_server_connection_interrupt_pin_D7",
+			"path": "../../ESP_wifi_server_connection_interrupt_pin_D7"
+		},
+		{
+			"name": "ESP_Blinky_RTOS",
+			"path": "../../ESP_Blinky_RTOS"
+		},
+		{
+			"name": "Blinky-FreeRTOS-ESP8266-NodeMCU",
+			"path": "../../../../../GitHub Projects/Blinky-FreeRTOS-ESP8266-NodeMCU"
+		},
+		{
+			"name": "RTOS_Blinky_using_Timer",
+			"path": "../../RTOS_Blinky_using_Timer"
+		},
+		{
+			"name": "LED_Toggle_Interrupt_D7_RTOS",
+			"path": "../../LED_Toggle_Interrupt_D7_RTOS"
+		},
+		{
+			"name": "RTOS_Blinky_arduino_framework",
+			"path": "../../RTOS_Blinky_arduino_framework"
+		},
+		{
+			"name": "Deep_Sleep_RST",
+			"path": "../../Deep_Sleep_RST"
+		},
+		{
+			"name": "ESP_wifi_server_Deep_Sleep_RST",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"gpio.h": "c",
+			"gpio_register.h": "c",
+			"task.h": "c",
+			"esp_common.h": "c",
+			"queue.h": "c",
+			"timers.h": "c",
+			"algorithm": "cpp",
+			"sstream": "cpp"
+		}
+	}
+}
